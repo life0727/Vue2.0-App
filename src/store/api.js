@@ -1,6 +1,4 @@
-/**
- * Created by superman on 2016/12/2.
- */
+
 import axios from 'axios';
 
 // 使用代理

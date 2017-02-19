@@ -1,6 +1,3 @@
-/**
- * Created by superman on 2016/12/12.
- */
 
 export const FETCH_MOVIES = 'movie/FETCH_MOVIES';
 export const FETCH_MOVIE_LIST = 'movie/FETCH_MOVIE_LIST';

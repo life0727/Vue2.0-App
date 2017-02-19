@@ -2,7 +2,7 @@
   "name": "vue-vuex-router",
   "version": "1.0.0",
   "description": "A Project for Vue 2.x Vuex vue-router",
-  "author": "superman <supermanchc@gmail.com>",
+  "author": "life0727 <mmlife0727@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
